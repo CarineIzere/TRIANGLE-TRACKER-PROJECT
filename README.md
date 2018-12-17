@@ -6,7 +6,7 @@ by carine Izere
 This is a project of designing a 3 Triangles, This is my second project at Moringa School 2018 https://carineizere.github.io/TRIANGLE-TRACKER-PROJECT/ These instructions will get you a copy of the project up and running on your local machine for development and testing purposes access this project on GITHUB at https://github.com/CarineIzere/TRIANGLE-TRACKER-PROJECT
 
 ## Prerequisites:
-things you need to install the software and how to install them github , atom: visual studio code , Terminal , ubuntu software I used html and Markdown language
+things you need to install the software and how to install them github , atom: visual studio code , Terminal , ubuntu software I used html, Javascript and Markdown language
 
 Installing:
 \ubuntu: GET PREPARED,
