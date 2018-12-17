@@ -1,6 +1,8 @@
 # TTIANGLE-TRACKER-PROJECT
 by carine Izere
-Description
+
+
+## Description
 This is a project of designing a 3 Triangles, This is my second project at Moringa School 2018 https://carineizere.github.io/TRIANGLE-TRACKER-PROJECT/ These instructions will get you a copy of the project up and running on your local machine for development and testing purposes access this project on GITHUB at https://github.com/CarineIzere/TRIANGLE-TRACKER-PROJECT
 
 ## Prerequisites:
