@@ -11,14 +11,14 @@ h1{
     font-weight: normal;
     text-transform: uppercase;
     font-size: 30px
-    float:center;
+    
   }
   h3{
     color: rgb(0, 255, 64);
     font-weight: normal;
     text-transform: uppercase;
     font-size: 30px
-    float:center;
+    
   }
   h4{
     color: blue;
@@ -30,7 +30,7 @@ h1{
   body{
     background-color: rgb(95, 74, 58);
     font-size: 25px;
-   
+    text-align: center;
   }
   ul{
     font-style: italic;
@@ -43,7 +43,7 @@ h1{
      border: none;
      color: white;
      padding: 15px 32px;
-     text-align: center;
+     margin-block-end: 300px;
      text-decoration: none;
      display: flow-root;
      font-size: 25px;
@@ -55,8 +55,8 @@ h1{
  }
  img {
   
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     float: left;
     margin-right: 20px;
   }
@@ -83,3 +83,4 @@ h1{
 .navigation{
     display:flex;
     flex-direction:column;
+}
