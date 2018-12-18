@@ -7,7 +7,7 @@ This is a project of designing a 3 Triangles, This is my second project at Morin
 
 ## Prerequisites:
 things you need to install the software and how to install them github , atom: visual studio code , Terminal , ubuntu software 
-## I used html, Javascript and Markdown language
+I used html, Javascript and Markdown language
 
 Installing:
 \ubuntu: GET PREPARED,
